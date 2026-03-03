@@ -86,9 +86,7 @@ cumplido su propósito.
 Si quieres apoyar el proyecto y ayudarme a seguir creando recursos como
 este:
 
-`<a href="https://www.buymeacoffee.com/claudioandres" target="_blank">`{=html}
-`<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=claudioandres&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />`{=html}
-`</a>`{=html}
+<a href="https://www.buymeacoffee.com/claudioandres" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ------------------------------------------------------------------------
 
