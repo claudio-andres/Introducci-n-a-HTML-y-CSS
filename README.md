@@ -1,5 +1,9 @@
 # 📘 Introducción a HTML y CSS
 
+<p align="center">
+  <img src="portada.png" alt="Portada Libro HTML y CSS" width="100%">
+</p>
+
 ### Guía práctica y manual de consulta
 
 ![Estado](https://img.shields.io/badge/Estado-Completo-success)
