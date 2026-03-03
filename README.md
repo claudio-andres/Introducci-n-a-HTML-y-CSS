@@ -62,7 +62,7 @@ y muchos tropiezos.
 
 ## 📂 Descarga el documento
 
-    /[Introduccion a HTML & CSS.pdf](https://github.com/user-attachments/files/25709798/Introduccion.a.HTML.CSS.pdf)
+   <a>https://github.com/user-attachments/files/25709798/Introduccion.a.HTML.CSS.pdf</a>
 
 
 ------------------------------------------------------------------------
@@ -84,9 +84,18 @@ Si te sirve aunque sea la mitad de lo que me sirvió a mí, ya habrá
 cumplido su propósito.
 
 Si quieres apoyar el proyecto y ayudarme a seguir creando recursos como
-este:
+este considera comprarme un cafe ☕:
 
-<a href="https://www.buymeacoffee.com/claudioandres" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/claudioandres" target="_blank">
+    <img 
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+      alt="Buy Me A Coffee" 
+      height="60"
+      width="217"
+    />
+  </a>
+</div>
 
 ------------------------------------------------------------------------
 
