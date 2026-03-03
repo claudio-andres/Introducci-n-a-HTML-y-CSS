@@ -60,10 +60,10 @@ y muchos tropiezos.
 
 ------------------------------------------------------------------------
 
-## 📂 Contenido del repositorio
+## 📂 Descarga el documento
 
-    /Introduccion-HTML-CSS.pdf
-    /README.md
+    /[Introduccion a HTML & CSS.pdf](https://github.com/user-attachments/files/25709798/Introduccion.a.HTML.CSS.pdf)
+
 
 ------------------------------------------------------------------------
 
